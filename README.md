@@ -14,6 +14,7 @@ human-labeled data by predicting missing parts of input data.
 • Latent Space Representations: Generative models learn lower
 dimensional representations of data, allowing them to generate new, 
 plausible variations. 
+
 **2. Generative AI Architectures (Focus on Transformers)**
 Generative AI has evolved with various architectures, including Autoencoders, 
 GANs (Generative Adversarial Networks), and VAEs (Variational Autoencoders). 
@@ -33,7 +34,8 @@ used for text generation.
 o BERT (Bidirectional Encoder Representations from Transformers): 
 An encoder-only model used for understanding text. 
 o T5 (Text-to-Text Transfer Transformer): A full encoder-decoder 
-transformer designed for text generation tasks. 
+transformer designed for text generation tasks.
+
 **3. Applications of Generative AI**
 Generative AI has widespread applications across various domains: 
 Text Generation and Processing: 
@@ -53,6 +55,7 @@ Music and Audio Generation:
 Healthcare and Drug Discovery: 
 • AI-generated molecular structures for pharmaceuticals 
 • Automated medical report generation 
+
 **4. Impact of Scaling in Large Language Models (LLMs)**
 The performance and capabilities of Large Language Models (LLMs) improve 
 significantly with scaling. 
